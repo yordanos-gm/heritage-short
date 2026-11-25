@@ -1,0 +1,8 @@
+.env 
+__pycache__/ 
+*.pyc 
+outputs/final/tmp_* 
+outputs/final/raw_16x9.mp4 
+outputs/final/sub_*.mp4 
+outputs/final/end_*.mp4 
+outputs/final/merged_synced.mp4

@@ -1,0 +1,120 @@
+{
+  "title": "A Christmas to Remember – Addis Ababa, 1975",
+  "language": "am",
+  "style_block": "faded warm 1970s 35mm film photograph, nostalgic Addis Ababa atmosphere, gentle analog grain, warm golden highlights, natural shadows, no text or watermarks",
+  "character_sheet_prompt": "1970s vintage family reference sheet of an Ethiopian father as a young boy around 9 years old with short dark hair, curious bright eyes, warm playful smile, wearing a neat vintage 1970s sweater and trousers, alongside his parents in classic 1970s Ethiopian attire and a white Volkswagen sedan, warm faded 1970s film look.",
+  "music_prompt": "Warm nostalgic 1970s Ethiopian instrumental score with gentle acoustic krar, soft piano, and subtle light percussion, affectionate and slightly playful holiday mood, no lyrics, quiet underscore under voice",
+  "closing_line_en": "Some journeys end, but the memories travel through generations.",
+  "shots": [
+    {
+      "shot_id": 1,
+      "duration_sec": 8,
+      "shot_type": "Establishing wide shot",
+      "purpose": "Set the 1975 Ethiopian Christmas mood and show the family starting from Gotera in their white Volkswagen.",
+      "narration_local": "በ1975 ገና በዓል አካባቢ ነበር። አያቶቼ እና አምስት ልጆቻቸው—አራት ወንዶች እና አንዲት ሴት—ከጎተራ በነጭ ፎልክስዋገን ወደ ጃን ሜዳ ተነሱ።",
+      "subtitles_en": "It was Christmas, around 1975. My grandparents and their five children—four boys and one girl—set off from Gotera in their white Volkswagen for Jan Meda.",
+      "image_prompt": "Wide shot of a white 1970s Volkswagen sedan parked on a dusty sunlit road in Gotera, Addis Ababa in 1975, family getting ready for a festive morning drive, warm 1970s film aesthetic.",
+      "motion_prompt": "Slow gentle camera push-in toward the white Volkswagen in warm morning light.",
+      "seed": 197501
+    },
+    {
+      "shot_id": 2,
+      "duration_sec": 8,
+      "shot_type": "Medium shot",
+      "purpose": "Show the warmth of community as Muslim family friends join the journey.",
+      "narration_local": "በመንገድ ላይ የቤተሰብ ሙስሊም ወዳጆች ተቀላቀሉን፤ ጉዞውን የበለጠ ልዩ እና ደስ የሚል አደረጉት።",
+      "subtitles_en": "Along the way, a few Muslim family friends joined them, making the journey even more special.",
+      "image_prompt": "Medium shot of warm-hearted Ethiopian family members and Muslim family friends greeting each other beside the white Volkswagen in 1975 Addis Ababa, smiling and joyful.",
+      "motion_prompt": "Gentle subtle camera movement with warm natural daylight.",
+      "seed": 197502
+    },
+    {
+      "shot_id": 3,
+      "duration_sec": 9,
+      "shot_type": "Point-of-view / medium shot",
+      "purpose": "Capture the childhood excitement of driving past 4 Kilo, 6 Kilo, and Parliament.",
+      "narration_local": "ለልጆቹ ጉዞው ራሱ ጀብድ ነበር። አራት ኪሎን፣ ስድስት ኪሎን እና ፓርላማን ስናልፍ የሚታየው ነገር ሁሉ አዲስ ነበር።",
+      "subtitles_en": "For the children, the journey itself was an adventure. Passing 4 Kilo, 6 Kilo, and Parliament, there was so much to see.",
+      "image_prompt": "1970s street scene in Addis Ababa viewed from a car window looking toward 4 Kilo, 6 Kilo, and Parliament avenues, classic 1970s cars and trees, warm nostalgic film tone.",
+      "motion_prompt": "Smooth forward tracking motion as if looking out from a moving car window.",
+      "seed": 197503
+    },
+    {
+      "shot_id": 4,
+      "duration_sec": 8,
+      "shot_type": "Wide shot",
+      "purpose": "Continue the city journey past Meskel Square and the UN Economic Commission for Africa.",
+      "narration_local": "መስቀል አደባባይን እና የተባበሩት መንግስታት የአፍሪካ ኢኮኖሚክ ኮሚሽንን ስናልፍ ልባችን በደስታ ተሞላ።",
+      "subtitles_en": "Passing Meskel Square and the UN Economic Commission for Africa, every corner felt full of wonder.",
+      "image_prompt": "Wide shot of 1975 Addis Ababa near Meskel Square and the distinctive modernist UN Economic Commission for Africa building under bright highland sky, faded 1970s film colors.",
+      "motion_prompt": "Slow pan across the 1970s cityscape and sunlit boulevard.",
+      "seed": 197504
+    },
+    {
+      "shot_id": 5,
+      "duration_sec": 8,
+      "shot_type": "Close-up insert",
+      "purpose": "Show the memorable treat of glass milk bottles and biscuits upon reaching Jan Meda.",
+      "narration_local": "ጃን ሜዳ ስንደርስ በብርጭቆ ጠርሙስ የቀረበ ወተት ከብስኩት ጋር ተቋደስን፤ ለልጅ ጊዜ ከዚህ በላይ ምን አለ?",
+      "subtitles_en": "When they finally arrived at Jan Meda, they enjoyed milk served in glass bottles with biscuits.",
+      "image_prompt": "Close-up of glass milk bottles and crisp biscuits arranged on a rustic table during a 1975 holiday gathering in Addis Ababa, warm nostalgic sunlight.",
+      "motion_prompt": "Slow gentle zoom-in on the glass milk bottles and biscuits.",
+      "seed": 197505
+    },
+    {
+      "shot_id": 6,
+      "duration_sec": 9,
+      "shot_type": "Wide action shot",
+      "purpose": "Bring out the energy, playfulness, and festive spirit of the traditional Gena game.",
+      "narration_local": "ትልቁ ደስታ ግን የገና ጨዋታን ማየት ነበር። ሳቅ፣ ጭብጨባ እና የገና መንፈስ ሜዳውን ሞልቶት ነበር።",
+      "subtitles_en": "But the real excitement was watching people play the traditional Ethiopian Gena game, filled with laughter and celebration.",
+      "image_prompt": "Wide festive shot of a lively 1975 traditional Ethiopian Gena game at Jan Meda with players and cheering spectators, playful energetic atmosphere, warm 1970s film look.",
+      "motion_prompt": "Gentle pan across the festive crowd and Gena players.",
+      "seed": 197506
+    },
+    {
+      "shot_id": 7,
+      "duration_sec": 8,
+      "shot_type": "Medium shot",
+      "purpose": "Transition from the bustling game to heading home as afternoon settles.",
+      "narration_local": "ከደስታ የተሞላ ቀን በኋላ ወደ ቤት የምንመለስበት ሰዓት ደረሰ፤ ግን ጀብዱው ገና አላለቀም ነበር።",
+      "subtitles_en": "After a wonderful day, it was time to head home—but the adventure wasn't quite over.",
+      "image_prompt": "Medium shot of the young boy and siblings sitting inside the warm white 1970s Volkswagen in late afternoon light, happy and slightly tired from a full day.",
+      "motion_prompt": "Subtle warm light shift and gentle camera drift.",
+      "seed": 197507
+    },
+    {
+      "shot_id": 8,
+      "duration_sec": 8,
+      "shot_type": "Close-up / medium shot",
+      "purpose": "Capture the playful surprise stop at a famous café for cake on the way back.",
+      "narration_local": "በመመለሻ መንገድ በታዋቂ ካፌ ቆም አልን፤ የመጨረሻው ጣፋጭ ስጦታ ጣፋጭ ኬክ ነበር።",
+      "subtitles_en": "On the way back, the family stopped at a famous café for one final treat: delicious cake.",
+      "image_prompt": "Close-up of a slice of classic 1970s café cake on a small plate inside a cozy vintage Addis Ababa café, warm inviting lighting.",
+      "motion_prompt": "Slow gentle push-in toward the cake in warm café light.",
+      "seed": 197508
+    },
+    {
+      "shot_id": 9,
+      "duration_sec": 7,
+      "shot_type": "Medium close-up",
+      "purpose": "Deliver the emotional heart of the story—family togetherness and a lasting memory.",
+      "narration_local": "እንዲህ ቀላል የመኪና ጉዞ፣ አንድ ላይ የሆነ ቤተሰብ እና ለትውልድ የሚተላለፍ የገና ትውስታ ተፈጠረ።",
+      "subtitles_en": "A simple car journey, a family together, and a Christmas that would be remembered for generations.",
+      "image_prompt": "Medium close-up of the father as a smiling young boy beside his parents in golden evening light, warm emotional expression, 1970s film aesthetic.",
+      "motion_prompt": "Slow gentle push-in with soft golden light.",
+      "seed": 197509
+    },
+    {
+      "shot_id": 10,
+      "duration_sec": 7,
+      "shot_type": "Wide shot / fade",
+      "purpose": "Close with the poetic reflection that memories travel across generations.",
+      "narration_local": "አንዳንድ ጉዞዎች ያበቃሉ፤ ግን ትውስታዎች በትውልዶች መካከል ይጓዛሉ።",
+      "subtitles_en": "Some journeys end, but the memories travel through generations.",
+      "image_prompt": "Wide nostalgic shot of the white Volkswagen driving gently down a tree-lined Addis Ababa road at dusk with soft golden-amber light fading smoothly.",
+      "motion_prompt": "Slow pull-back and warm fade toward dusk.",
+      "seed": 197510
+    }
+  ]
+}

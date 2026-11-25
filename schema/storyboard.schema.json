@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HeritageShortStoryboard",
+  "type": "object",
+  "required": ["title", "language", "style_block", "character_sheet_prompt", "music_prompt", "closing_line_en", "shots"],
+  "properties": {
+    "title": { "type": "string", "minLength": 1 },
+    "language": { "type": "string", "minLength": 2 },
+    "style_block": { "type": "string", "minLength": 5 },
+    "character_sheet_prompt": { "type": "string", "minLength": 10 },
+    "music_prompt": { "type": "string", "minLength": 5 },
+    "closing_line_en": { "type": "string", "minLength": 5 },
+    "shots": {
+      "type": "array",
+      "minItems": 8,
+      "maxItems": 14,
+      "items": {
+        "type": "object",
+        "required": [
+          "shot_id",
+          "duration_sec",
+          "shot_type",
+          "purpose",
+          "narration_local",
+          "subtitles_en",
+          "image_prompt",
+          "motion_prompt",
+          "seed"
+        ],
+        "properties": {
+          "shot_id": { "type": "integer", "minimum": 1 },
+          "duration_sec": { "type": "number", "minimum": 4, "maximum": 16 },
+          "shot_type": { "type": "string" },
+          "purpose": { "type": "string", "minLength": 5 },
+          "narration_local": { "type": "string" },
+          "subtitles_en": { "type": "string" },
+          "image_prompt": { "type": "string", "minLength": 10 },
+          "motion_prompt": { "type": "string", "minLength": 5 },
+          "seed": { "type": "integer", "minimum": 1 }
+        }
+      }
+    }
+  }
+}
